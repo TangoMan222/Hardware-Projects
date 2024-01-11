@@ -1,1 +1,11 @@
+1. Flash image onto SD card
+  -Download and launch Raspberry Pi Imager 
+  -Choose your device(mine is a raspberry pi zero)
+  -Under operating system select "Use Custom"
+  -Select downloaded .IMG file
+  -Select the SD card for Storage device
+    -WARNING THIS WILL ERASE ALL DATA ON THE STORAGE DEVICE
+  - Flash the SD card
 
+2. First Boot
+  -

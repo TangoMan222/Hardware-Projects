@@ -1,14 +1,14 @@
-Items used for project:
-  -Raspberry Pi Zero
+Items I used for project:
+  -Raspberry Pi Zero (Required)
   -Pi Sugar 2
-  -2.13 e-Paper HAT Waveshare (marked V4)
-  -Micro USB cable
+  -2.13 e-Paper HAT Waveshare (marked V4)(Required for this tutorial)(possible to be Hatless) 
+  -Micro USB cable (Required)
   -3D Printed case
-  -Micro SD Card (32GB)
+  -Micro SD Card (32GB) (8GB Required) (UHS-1 and above)
 
 Software used for project:
   - Pwnigotchi Software
-    -version I used that worked well
+    -Version I used that worked well
       -https://github.com/jayofelony/pwnagotchi-torch.git
   - Raspberry Pi Flasher (balenaEtcher works well too)
     -https://www.raspberrypi.com/software/

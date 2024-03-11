@@ -4,11 +4,11 @@ Items used for project:
   -2.13 e-Paper HAT Waveshare (marked V4)
   -Micro USB cable
   -3D Printed case
-  -Micro SD Card (32gb)
+  -Micro SD Card (32GB)
 
 Software used for project:
   - Pwnigotchi Software
     -version I used that worked well
       -https://github.com/jayofelony/pwnagotchi-torch.git
-  - Raspberry Pi Flasher
+  - Raspberry Pi Flasher (balenaEtcher works well too)
     -https://www.raspberrypi.com/software/

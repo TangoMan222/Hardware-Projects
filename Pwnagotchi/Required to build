@@ -12,3 +12,4 @@ Software used for project:
       -https://github.com/jayofelony/pwnagotchi-torch.git
   - Raspberry Pi Flasher (balenaEtcher works well too)
     -https://www.raspberrypi.com/software/
+  - Driver Required to connect to PC (without this the PC won't see it correctly)

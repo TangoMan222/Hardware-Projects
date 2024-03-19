@@ -7,7 +7,7 @@ Items I used for project:
   -Micro SD Card (32GB) (8GB Required) (UHS-1 and above)
 
 Software used for project:
-  - Pwnigotchi Software
+  - Pwnagotchi Software
     -Version I used that worked well
       -https://github.com/jayofelony/pwnagotchi-torch.git
   - Raspberry Pi Flasher (balenaEtcher works well too)

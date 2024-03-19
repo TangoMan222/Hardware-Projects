@@ -8,7 +8,7 @@
   -Flash the SD card
   -Read the SD Card on your PC and navigate to the Config.toml file to change settings
       -DO NOT change the config files waveshare-3 setting. it works with v3 and v4.
-  -Remove SD card from PC and inset into Pi Zero 
+  -Remove SD card from PC and insert into Pi Zero 
 
 2. Booting up
   -Connect the micro-USB cable to the data port of your Pwnagotchi’s RPi0W(inboard port) and the other end to your PC

@@ -35,7 +35,7 @@
   -"ssh pi@10.0.0.2" # default password: raspberry
   -answer "yes" to the ECDSA key
   -"passwd" (change password)
-  -sudo su (switch to root)
+  -"sudo su" (switch to root)
   -"passwd" (change password for root)
 
 4. Operation

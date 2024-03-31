@@ -62,3 +62,7 @@
   - After a couple of minutes it should display AI
 
 Now you are done with the basics of setting up a Pwnagotchi!
+
+## Disclaimer
+
+**This project is intended for educational and personal use only. Please use it responsibly and ensure that you are only testing against networks you have permission to test. Not to be used for malicious purposes.**

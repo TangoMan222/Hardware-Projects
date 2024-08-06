@@ -1,1 +1,1 @@
-![Pwnagotchi Interface](Pwnagotchi/images/pwnagotchi_img1.jpg)
+![Pwnagotchi Interface](/pwnagotchi_img1.jpg)

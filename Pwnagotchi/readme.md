@@ -3,16 +3,21 @@
   Pwnagotchi is an AI-powered tool that leverages Raspberry Pi to automate the process of capturing WPA2 Wi-Fi handshakes. Designed for ethical hacking and security testing, it learns from its environment to optimize and improve its performance in detecting and capturing handshake data. Pwnagotchi helps security professionals identify vulnerabilities in wireless networks, making it a valuable tool for penetration testing and network security assessments.
 
 <img src="/Pwnagotchi/images/Pwnagotchi_img1.jpg" alt="Description" width="500"/>
-![Pwnagotchi Interface](/Pwnagotchi/images/Pwnagotchi_img1.jpg)
+
+<img src="/Pwnagotchi/images/Pwnagotchi_img6.jpg" alt="Description" width="500"/>
 
 # Items I used for project:
 
   - Raspberry Pi Zero (Required)
   - Pi Sugar 2
-  - 2.13 e-Paper HAT Waveshare (marked V4)(Required for this tutorial)(possible to be Hatless) 
+  - <img src="/Pwnagotchi/images/Pwnagotchi_img7.jpg" alt="Description" width="500"/>
+  - 2.13 e-Paper HAT Waveshare (marked V4)(Required for this tutorial)(possible to be Hatless)
+  - <img src="/Pwnagotchi/images/Pwnagotchi_img5.jpg" alt="Description" width="500"/>
   - Micro USB cable (Required)
   - 3D Printed case
+  - <img src="/Pwnagotchi/images/Pwnagotchi_img2.jpg" alt="Description" width="500"/> 
   - Micro SD Card (32GB) (8GB Required) (UHS-1 and above)
+  - <img src="/Pwnagotchi/images/Pwnagotchi_img3.jpg" alt="Description" width="500"/>
 
 # Software used for project:
  - Pwnagotchi Software (Version I used that worked well)

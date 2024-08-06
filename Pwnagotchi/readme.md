@@ -2,6 +2,9 @@
 
   Pwnagotchi is an AI-powered tool that leverages Raspberry Pi to automate the process of capturing WPA2 Wi-Fi handshakes. Designed for ethical hacking and security testing, it learns from its environment to optimize and improve its performance in detecting and capturing handshake data. Pwnagotchi helps security professionals identify vulnerabilities in wireless networks, making it a valuable tool for penetration testing and network security assessments.
 
+<img src="/Pwnagotchi/images/Pwnagotchi_img1.jpg" alt="Description" width="500"/>
+![Pwnagotchi Interface](/Pwnagotchi/images/Pwnagotchi_img1.jpg)
+
 # Items I used for project:
 
   - Raspberry Pi Zero (Required)

@@ -1,5 +1,5 @@
 # Raspberry Pi 5 NAS Build
-**This project documentation is not complete**
+## This project documentation is not complete
 This project documents the process of building a 4-bay NAS using a Raspberry Pi 5, 4 SSDs, and OpenMediaVault. This setup is based on a guide by [The DIY Life](https://www.the-diy-life.com/i-built-a-4-bay-raspberry-pi-5-based-nas/), with 3D print files for the enclosure provided by the original creator.
 
 ## Table of Contents

@@ -31,19 +31,24 @@ The following hardware was used for this build:
 ## Building Considerations
 - **Modification of the Heatsink is required to make room for the barrel jack of the Radxa SATA Hat**
    - <img src="/PI-5-NAS/Photos/NasBuild.jpg" alt="Description" width="500"/>
+   - <img src="/PI-5-NAS/Photos/NasBuild1.jpg" alt="Description" width="500"/>
+   - <img src="/PI-5-NAS/Photos/NasBuild2.jpg" alt="Description" width="500"/>
+   - <img src="/PI-5-NAS/Photos/NasBuild3.jpg" alt="Description" width="500"/>
 Optional:
 - **Wavelink 2.5G Ethernet Adaptor** - To boost network speeds.
 
 ## Software Setup
 1. **Operating System**:  
    I installed Raspberry Pi OS Lite on the microSD card using Raspberry Pi Imager. SSH was enabled to allow remote setup.
+   - <img src="/PI-5-NAS/Photos/piNASflash1.png" alt="Description" width="500"/>
+   - <img src="/PI-5-NAS/Photos/piNASflash2.png" alt="Description" width="500"/>
    
-2. **OpenMediaVault Installation**:  
+3. **OpenMediaVault Installation**:  
    OpenMediaVault (OMV) was installed using the following script:
    ```bash
    sudo wget -O - https://github.com/OpenMediaVault-Plugin-Developers/installScript/raw/master/install | sudo bash
     ```
-3. **After installation, I enabled the PCIe port by editing the config file**:
+4. **After installation, I enabled the PCIe port by editing the config file**:
 ```bash
 sudo nano /boot/firmware/config.txt
 ```

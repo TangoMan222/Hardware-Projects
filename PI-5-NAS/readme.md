@@ -20,7 +20,7 @@ This project aims to create a cost-efficient and highly customizable NAS using t
 The following hardware was used for this build:
 - **Raspberry Pi 5**
 - **Radxa Penta SATA Hat (Pi 5 Kit)** - Allows up to 5 SATA drives to connect.
-- **4 x Crucial 2.5″ BX500 SSDs** - Chosen for their balance between cost and quality.
+- **4 x Samsung 870 EVO 2.5″ SSDs** - Chosen for their balance between cost and quality.
 - **Raspberry Pi 5 Active Cooler** - Custom modified to fit.
 - **12V 3A Power Supply**
 - **32GB Sandisk Ultra MicroSD Card** - Used for the OS.

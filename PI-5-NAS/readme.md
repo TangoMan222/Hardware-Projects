@@ -1,10 +1,11 @@
 # Raspberry Pi 5 NAS Build
-## This project documentation is not complete
+
 This project documents the process of building a 4-bay NAS using a Raspberry Pi 5, 4 SSDs, and OpenMediaVault. This setup is based on a guide by [The DIY Life](https://www.the-diy-life.com/i-built-a-4-bay-raspberry-pi-5-based-nas/), with 3D print files for the enclosure provided by the original creator.
 
 ## Table of Contents
 - [Introduction](#introduction)
 - [Hardware](#hardware)
+- [Building Considerations](#Building-Considerations)
 - [Software Setup](#software-setup)
 - [Enclosure Design](#enclosure-design)
 - [Final Build](#final-build)
@@ -27,6 +28,9 @@ The following hardware was used for this build:
 - **Noctua 40mm 5V Fan** - For additional cooling.
 - **M2.5 Button Head Screws & Brass Inserts** - For securing components.
 
+## Building Considerations
+- **Modification of the Heatsink is required to make room for the barrel jack of the Radxa SATA Hat**
+   - <img src="/PI-5-NAS/Photos/NasBuild.jpg" alt="Description" width="500"/>
 Optional:
 - **Wavelink 2.5G Ethernet Adaptor** - To boost network speeds.
 

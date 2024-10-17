@@ -11,6 +11,7 @@ This repository contains a collection of projects focused on hardware developmen
 ## Project List
 Below is a list of hardware-related projects included in this repository:
 - **[Flashing OS]**: A project focused on the process of flashing operating systems onto hardware devices such as Raspberry Pi or other microcontrollers.
+- **[PI5-NAS Build]**: A project detailing the creation of a NAS using a Raspberry Pi 5 with 4 SSDs, running OpenMediaVault for network-attached storage.
 - **[Pwnagotchi]**: A project involving the setup and configuration of Pwnagotchi, an AI-powered Wi-Fi hacking tool based on Raspberry Pi that learns from its surroundings.
 
 ## Getting Started

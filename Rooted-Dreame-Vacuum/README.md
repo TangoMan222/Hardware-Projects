@@ -1,6 +1,6 @@
 # Rooting and Installing Valetudo on Dreame D10S Plus
 # NOT COMPLETE WIP
-This repository provides a detailed guide on rooting the Dreame D10S Plus vacuum cleaner and installing Valetudo, an open-source solution for offline control. Following this guide enables local-only access to your robot vacuum, bypassing cloud services for enhanced privacy.
+This repository provides a detailed guide on rooting the Dreame D10S Plus vacuum cleaner and installing Valetudo, an open-source solution for offline control. Following this guide enables local-only access to your robot vacuum, bypassing cloud services for enhanced privacy. This project was completed with the help of the wonderful people and guide located at [Valetudo.Cloud](https://valetudo.cloud/)
 
 **Warning**: Rooting your vacuum may void the warranty and could permanently damage the device if not done carefully. Ensure you understand each step before proceeding.
 

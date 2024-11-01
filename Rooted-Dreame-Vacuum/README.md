@@ -65,13 +65,25 @@ This rooting process is divided into three phases:
   **Ensure you have at least version 2024.07 as older versions have a chance to brick the robot**
    ```bash
    fastboot getvar config
-  ```
+   ```
   **Make sure to save the config value as you will need it later for selecting the correct bootloader**
+  
+  Retrieve additional data from the robot:
   ```
    fastboot get_staged dustx100.bin
+   du -h dustx100.bin
+  ```
+  Ensure that each file is about 400MB before continuing
+  ```bash
    fastboot oem stage1
    fastboot get_staged dustx101.bin
-  '''
+   fastboot oem stage2
+   fastboot get_staged dustx102.bin
+```
+Zip all the files up:
+```bash
+  zip dreame_rxxxx_samples.zip dustx100.bin dustx101.bin dustx102.bin
+```
   ### Save Configuration Values
 Note important data (e.g., config values) for custom firmware creation.
 

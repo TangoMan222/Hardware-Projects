@@ -57,9 +57,17 @@ This rooting process is divided into three phases:
    - Now you can connect the USB cord to your computer
    - You will see a Livesuit popup, you can press **NO** at this time
 2. **Run Recon Commands**:
+   **Watchdog might reboot during your recon it is not something to worry about during this phase of the process just enter fastboot again where you left off**
    ```bash
    fastboot devices
+   fastboot getvar dustversion
+   ```
+  **Ensure you have at least version 2024.07 as older versions have a chance to brick the robot**
+   ```bash
    fastboot getvar config
+  ```
+  **Make sure to save the config value as you will need it later for selecting the correct bootloader**
+  ```
    fastboot get_staged dustx100.bin
    fastboot oem stage1
    fastboot get_staged dustx101.bin

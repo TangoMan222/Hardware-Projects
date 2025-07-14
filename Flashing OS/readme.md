@@ -37,7 +37,9 @@ Choose the operating system you'd like to flash:
 ### 2. Choose a Flashing Tool
 Use one of the following tools to write the OS image to your storage device:
 - **balenaEtcher** (Cross-platform): [Download here](https://www.balena.io/etcher/)
+- <img src="/Flashing OS/BalenaEtcher.png" alt="Description" width="500"/>
 - **Raspberry Pi Imager** (Official for Raspberry Pi): [Download here](https://www.raspberrypi.org/software/)
+- <img src="/Flashing OS/Pi Imager.png" alt="Description" width="500"/>
 - **Rufus** (Windows): [Download here](https://rufus.ie/)
 - <img src="/Flashing OS/Rufus.png" alt="Description" width="500"/>
 

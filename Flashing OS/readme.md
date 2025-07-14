@@ -39,6 +39,7 @@ Use one of the following tools to write the OS image to your storage device:
 - **balenaEtcher** (Cross-platform): [Download here](https://www.balena.io/etcher/)
 - **Raspberry Pi Imager** (Official for Raspberry Pi): [Download here](https://www.raspberrypi.org/software/)
 - **Rufus** (Windows): [Download here](https://rufus.ie/)
+- <img src="/Flashing OS/Rufus.png" alt="Description" width="500"/>
 
 ### 3. Flash the OS
 - Open the flashing tool and select the OS image file you downloaded.
